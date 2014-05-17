@@ -1,0 +1,10 @@
+#root .jumbotron#banner {
+    background-color: #eee;
+    text-align: center;
+}
+
+#root #banner .byline {
+    background-color: transparent;
+    font-size: 30px;
+    color: #444;
+}
